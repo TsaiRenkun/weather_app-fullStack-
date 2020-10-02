@@ -1,0 +1,19 @@
+{
+    "pax": [
+      {
+        "name":"kun", 
+        "paid": true
+      },
+      {
+          "name": "ben"
+      }
+    ],
+    "items": [
+      {
+        "id": 1,
+        "itemName": "Wine",
+        "price": 100,
+        "people": ["kun", "ben"]
+      }
+    ]
+  }
